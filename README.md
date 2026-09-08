@@ -1,5 +1,5 @@
 # Proyecto-2-curso-analisis-de-datos
-Proyecto 2: Pipeline de Extracción y Modelamiento regresivo aplicable a variables predictivas multifactoriales (Python &amp; SQL)
+Proyecto 2: Pipeline de Extracción y Modelamiento regresivo aplicable a variables predictivas multifactoriales (Python)
 
 Desarrollé un script en Python para la extracción, limpieza y preparación automatizada de datos macroeconómicos
 desde la plataforma del Banco Central de Chile.
